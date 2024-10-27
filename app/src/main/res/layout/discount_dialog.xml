@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:elevation="10dp"
+    app:cardCornerRadius="26dp">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="132dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/congo_logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Congratulations!"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/darkBlue"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+        android:orientation="vertical"> <!-- Center the text on the image -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="@color/darkvoilet"
+            android:layout_gravity="center"
+            android:text="Based on your exercise stats,\nyou have recieved
+12% discount on this \nbilling!" />
+        </LinearLayout>
+
+    </FrameLayout>
+
+
+</androidx.cardview.widget.CardView>
