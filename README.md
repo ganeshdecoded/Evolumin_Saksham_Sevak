@@ -55,3 +55,5 @@ We plan to enhance SakshamSevak by integrating the following features:
 1.	Advanced Pharmacy Integration - Using official APIs from leading pharmacies to allow direct medicine purchases and prescription management.
 2.	Real-Time Health Monitoring - Connecting with wearables to provide live health updates and alerts.
 3.	Enhanced AI Analysis - Advanced analysis of medical reports for a more detailed, AI-driven health insights platform.
+
+VIDEO LINK :- https://drive.google.com/file/d/1yZvuHJQx_PEx0bDCPwWPbFF4ZSR0qbtx/view?usp=sharing
