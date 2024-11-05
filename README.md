@@ -40,7 +40,7 @@ ______________
 Installation and Setup
 Follow these steps to set up and run SakshamSevak locally:
 1.	Clone the Repository:
-git clone https://github.com/yourusername/sakshamsevak.git
+git clone https://github.com/ganeshdecoded/Evolumin_Saksham_Sevak.git
 cd sakshamsevak
 2.	Open in Android Studio:
 o	Open Android Studio.
